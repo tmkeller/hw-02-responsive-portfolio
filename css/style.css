@@ -1,0 +1,11 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+h1 {
+    float: left;
+    font-size: 27px;
+    margin-left: 20px;
+}
