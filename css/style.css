@@ -17,6 +17,11 @@ h1 {
     margin-left: 20px;
 }
 
+hr {
+    background-color: white;
+    margin-top: 0.1rem;
+}
+
 .profile_pic {
     width: 250px;
     float: left;
