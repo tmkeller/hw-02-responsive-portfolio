@@ -1,21 +1,33 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 body {
     color: white;
     background-color: #272727;
     font-family: 'JetBrains Mono', monospace;
     font-size: 13px;
-}
-
-.main_content {
-    padding: 60px 35px;
     background-image: url("../images/black-tile.jpg");
     background-repeat: repeat;
 }
 
-h1 {
+.main_content {
+    padding: 60px 35px;
+}
+
+h1, h2 {
     float: left;
-    font-size: 27px;
     margin-left: 11px;
     margin-bottom: 0;
+}
+
+h1 {
+    font-size: 27px;
+}
+
+h2 {
+    font-size: 24px;
 }
 
 a:link {
@@ -84,6 +96,9 @@ hr {
 footer {
     height: 50px;
     background-color: #363c42;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 footer p {
