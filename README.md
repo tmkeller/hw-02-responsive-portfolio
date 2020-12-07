@@ -13,15 +13,24 @@ LinkedIn: https://linkedin.com/in/tim-keller-3ab55bb1/
 
 ## Objectives
 
-A refactoring of the code on the homepage for Horiseon Social Solution Services, Inc., which included the following:
+Create a sleek, stylish 3-page portfolio site with the following attributes:
 
-* Replaced div elements with more descriptive and accurate semantic HTML elements.
-* Reorganized HTML elements to flow logically, independent of CSS styling.
-* Added alt text (or equivalent) to all images.
-* Reorganized heading attributes to move sequentially.
-* Renamed the title element to be accurate and descriptive.
-* Clean-up of HTML and CSS elements to follow best practices.
-* Consolidate redundant CSS properties.
+* A navbar.
+* A responsive layout.
+* Responsive images.
+* Minimal use of @media queries.
+* Approximate matching of reference images provided by UW bootcamp staff.
+* Bootstrap grid system.
+* Pages that leave margin and padding space for screen sizes above "sm," but mostly eliminate them for smaller screen sizes.
+* HTML that passes online HTML validation.
+* Functional, deployed application
+* GitHub repository with README describing the project
+* Consistent Navbar across pages.
+* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+* All links function on all pages.
+* Usage of semantic html.
+* Personalized information. (bio, name, images, links to social media, etc.)
+* Proper use of Bootstrap components and grid system.
 
 ## Product
 
