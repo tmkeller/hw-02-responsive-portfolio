@@ -66,6 +66,9 @@ hr {
     background-color: #000000;
     padding: 20px 6px;
     border-radius: 6px;
+    box-shadow: 4px 4px 20px -1px rgba(131,131,131,1);
+    -webkit-box-shadow: 4px 4px 20px -1px rgba(131,131,131,1);
+    -moz-box-shadow: 4px 4px 20px -1px rgba(131,131,131,1);
 }
 
 .aligned_content {
@@ -86,11 +89,25 @@ hr {
 
 .portfolio_image {
     margin: 16px 12px;
+    box-shadow: 4px 4px 5px 0px  rgba(161,161,161,1);
+    -webkit-box-shadow: 4px 4px 5px 0px  rgba(161,161,161,1);
+    -moz-box-shadow: 4px 4px 5px 0px  rgba(161,161,161,1);
+    transition-duration: 0.5s;
+}
+
+.portfolio_image:hover {
+    box-shadow: 4px 4px 20px -1px rgba(255,65,65,1);
+    -webkit-box-shadow: 4px 4px 20px -1px rgba(255,65,65,1);
+    -moz-box-shadow: 4px 4px 20px -1px rgba(255,65,65,1);
 }
 
 .white_band {
     height: 4px;
     background-color: #ffffff;
+}
+
+.portfolio_col {
+    margin-bottom: 20px;
 }
 
 footer {
