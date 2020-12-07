@@ -15,6 +15,23 @@ h1 {
     float: left;
     font-size: 27px;
     margin-left: 11px;
+    margin-bottom: 0;
+}
+
+a:link {
+    color: #eeeeee;
+}
+
+a:visited {
+    color: #aaaaaa;
+}
+
+a:hover {
+    color: #dddddd;
+}
+
+a:active {
+    color: #cccccc;
 }
 
 hr {
@@ -67,6 +84,16 @@ hr {
 footer {
     height: 50px;
     background-color: #363c42;
+}
+
+footer p {
+    text-align: center;
+    display: block;
+    margin: 3px auto;
+}
+
+footer p a {
+    text-decoration: underline;
 }
 
 @media all and (max-width: 575px) {
