@@ -30,6 +30,12 @@ h2 {
     font-size: 24px;
 }
 
+h4 {
+    font-size: 21px;
+    display:inline-block;
+    float:left;
+}
+
 a:link {
     color: #eeeeee;
 }
@@ -66,6 +72,15 @@ hr {
 .icon_link {
     margin: 24px 6px 0 6px;
     display: inline-block;
+}
+
+.portfolio_git_icon {
+    display:block;
+    float: right;
+}
+
+.portfolio_git_icon img {
+    width: 30px;
 }
 
 .center_col {
