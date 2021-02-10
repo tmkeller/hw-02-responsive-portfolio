@@ -9,7 +9,7 @@ Email: timothy.m.keller@gmail.com
 
 Github: https://github.com/tmkeller
 
-LinkedIn: https://linkedin.com/in/tim-keller-3ab55bb1/
+LinkedIn: https://www.linkedin.com/in/tim-keller-he-him-his-3ab55bb1/
 
 ## Objectives
 
